@@ -1,18 +1,13 @@
-﻿# Kobayashi remover for Kobayashi's Roma skin
+﻿# Roma Origin
 
-======================Presented by SEA group======================
+Skin modification for tier 8 battleship **Roma**. This mod applies on the Roma Kobayashi skin which costs 7000 doublons.
 
-This mod applies on the Roma Kobayashi skin which costs 7000 doublons. It replaces Kobayashi's Roma with Roma's normal permouflage.
+Presented by SEA group
 
-Installation: 
+## Installation
+* **For WGC users**, copy `content` into `[WoWS folder]/bin/[largest number]/res_mods/`
+* **For Steam users**, copy `content` into `/steamapps/common/World of Warships/bin/[largest number]/res_mods/`
 
-Copy "content" into /res_mods/a.b.c.d(current version)/
-
-
-
-此mod用于将罗马小林涂装外观替换为原版永久迷彩。
-
-安装：
-把content放到
-游戏安装目录/res_mods/版本号/ 
-里面即可
+## 使用方法
+* **WG游戏中心用户**请把`content`放到`[游戏安装目录]/bin/[数字最大的那个]/res_mods/`里面
+* **Steam客户端用户**请把`content`放到`steamapps/common/World of Warships/bin/[数字最大的那个]/res_mods/`里面
